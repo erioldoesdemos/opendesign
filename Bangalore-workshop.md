@@ -70,5 +70,4 @@ Learnings on how to amend the methodology and/or the workshop framework.
 7. Refining the role required in a group and what their function is/could be e.g. 1 UX designer, 1 Researcher, 1 Documenter.
 8. Being able to have activities that can happen in tandem when prototyping starts is to be developed. 1-2 people typically operate the prototyping tool and other complete tasks like sketching, storyboards and documenting. But this way not everyone gets a chance to prototype in one workshop.
 9. The exercises are part of de-constructing a typical OSS 'issue' and many of the attendees understood this afte rthe process was completed and this part explained.
-10. Picking apart challenges/issues could be more explicit as part of the workshop and less implied.
-11.
+10. Picking apart challenges/issues could be more explicit as part of the workshop and less implied. Sample text.
